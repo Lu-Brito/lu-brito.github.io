@@ -1,2 +1,2 @@
-# lubritolubrit.github.io
+# lu-brito.github.io
 Personal site
