@@ -1,9 +1,21 @@
 ## Luciana Sá Brito
 
-I hold a degree in physics from the Federal University of Rio de Janeiro, with a specialization in e-learning management. Currently, I am pursuing a master's degree in Information Systems as part of the postgraduate program in Informatics at UFRJ. My professional journey has been both diverse and dedicated. For nearly a decade, I have served as an Instructional Designer for the Rio de Janeiro State Government, and for seven years, I dedicated myself to educating students as a physics teacher within the same government institution.
+I am a PhD candidate in Informatics at the [Federal University of Rio de Janeiro (UFRJ)](https://ufrj.br/), working at the intersection of [Human-Computer Interaction](https://www.acm.org/special-interest-groups/sigs/sigchi), Human-Data Interaction, data literacy, and education. I hold a degree in Physics and a master’s degree in Information Systems from UFRJ, and my professional background combines science education, instructional design, and sociotechnical research.
 
-Two decades ago, I embarked on my journey in the field of science education, and since then, I have remained unwavering in my pursuit of personal and professional growth. My primary aim has always been to contribute to the education of young adults, fostering their understanding of subjects like science, mathematics, physics, and their associated technologies. 
+For nearly two decades, I have worked in science and technology education, first as a physics teacher in the public sector and later as an Instructional Designer at [Fundação Cecierj](https://www.cecierj.edu.br/), an institution connected to science, technology, and distance education in the state of Rio de Janeiro. Across these roles, I have designed educational experiences, digital learning materials, and pedagogical strategies for diverse learners, with a particular interest in how people engage with science, mathematics, technology, and data.
 
-For more insights into my professional background, you can explore my curriculum [here](http://lattes.cnpq.br/2381774237594958) or visit my GitHub profile [here](https://github.com/Lu-Brito) to discover some of the projects I have documented over the years.
+My current research investigates data literacy as a situated, relational, and political practice, especially in underserved territories. I am interested in how communities learn to interpret, question, produce, and use data to understand their realities, communicate local knowledge, and support claims for rights and public action.
 
-One of the hallmark aspects of my research and projects is collaboration. It's essential to recognize that numerous individuals are integral to the success of the projects I engage in. Their contributions, be it in terms of creativity, support, or sheer hard work, are what fuel our collective success. We find immense fulfillment in working as a team and are committed to perpetuating this collaborative spirit, for we truly believe in the power of unity.  
+My work is grounded in participatory and community-based approaches, drawing inspiration from [Popular Education](https://en.wikipedia.org/wiki/Popular_education), [co-design](https://en.wikipedia.org/wiki/Participatory_design), and Human-Data Interaction. I have collaborated with community members, educators, students, researchers, public workers, and local leaders in projects involving workshops, photovoice, data visualization, and collective reflection.
+
+Collaboration is central to my trajectory. I understand research as a collective process of listening, designing, learning, and producing knowledge together.
+
+You can also find some of my documented projects on my [GitHub profile](https://github.com/Lu-Brito).
+
+## Links
+
+- [GitHub](https://github.com/Lu-Brito)
+- [UFRJ](https://ufrj.br/)
+- [Fundação Cecierj](https://www.cecierj.edu.br/)
+- [Workshop on Interactions with Data Experiences - WIDE](https://www.instagram.com/wide_workshop/)
+- [Data Commons Initiative](https://lu-brito.github.io/datacommons/)
