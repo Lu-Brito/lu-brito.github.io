@@ -1,4 +1,4 @@
-## Luciana Sá Brito
+## Lu Brito
 
 I am a PhD candidate in Informatics at the [Federal University of Rio de Janeiro (UFRJ)](https://ufrj.br/), working at the intersection of [Human-Computer Interaction](https://www.acm.org/special-interest-groups/sigs/sigchi), Human-Data Interaction, data literacy, and education. I hold a degree in Physics and a master’s degree in Information Systems from UFRJ, and my professional background combines science education, instructional design, and sociotechnical research.
 
